@@ -1,3 +1,4 @@
-theme: pages-themes/leap-day@v0.2.0
-title: "Lurking Ninja"
-description: "...where games are lurking in the shadows"
+title: Lurking Ninja
+description: ...where games are lurking in the shadows
+show_downloads: true
+theme: jekyll-theme-leap-day

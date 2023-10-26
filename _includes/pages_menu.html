@@ -1,0 +1,4 @@
+﻿{% assign sorted_pages = site.pages | sort:"order" %}
+{% for node in sorted_pages %}{% assign title = node.title | strip | capitalize %}{% if title != "" %}
+<a href="{{ node.url }}" class="button{% if page.url == node.url %} active{% endif %}">{{ node.title | capitalize }}</a>
+{% endif %}{% endfor %}
