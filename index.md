@@ -7,22 +7,18 @@ order: 1
 
 ## Introduction ##
 
-So, finally I have a website. It’s exciting, isn’t it?
-I am Lurking Ninja. I am a Software guy. I do that for an international
-company, but at night, when the dark falls on the city I put on my cape
-and start to code just for fun.
+So, I finally have a website. It’s exciting, isn’t it?
+I’m Lurking Ninja, a software developer at an international company. At night,
+when darkness falls, I put on my cape and code just for fun.
 
-I also like video games, so on said nights I usually code something fun.
-But more on that later. If you want to know more about me,
-visit my [About](/about.html) page.
+I also like video games, so on those nights I usually make something fun.
+But more on that later. If you want to know more about me, visit my
+[About](/about.html) page.
 
-I’m also planning to write some tutorials along the way,
-so if you want to read what I have to write, visit my tutorial posts
-on my Tutorials page.
+I plan to share some tutorials here in the future.
 
-I’m obviously working on something, but more on that later.
-I will show off my successful and failure prototypes here, on these pages.
+I’m working on a few things and will share the projects I’m happy with here.
 
-## Contact ##
+## Contact ## {: .no-toc}
 
-You also can connect with me [here](/contact.html) or on [Twitter](https://twitter.com/LurkingNinja) or on [Mastodon](https://mastodon.gamedev.place/@lurkingninja).
+You can find me on [Twitter](https://twitter.com/LurkingNinja) or [Mastodon](https://mastodon.gamedev.place/@lurkingninja).

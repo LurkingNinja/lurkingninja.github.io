@@ -9,42 +9,41 @@ order: 100
 
 ![Sandor in hat](/assets/images/amon_hat.jpg "Mad hatter")
 
-```
-You can discover more about a person in an hour of play than a year of conversation.
-                                                                        --- Plato
-```
+> You can discover more about a person in an hour of play than a year of conversation.
+>
+> Plato
 
-I was five years old when I got my very first computer. Or rather an Atari 2600 console, and something called Universum Compumate. It was a the keyboard through its cartridge-bay it became a fully functional personal computer. It came with cartridges, utterly non-ergonomic joysticks and the keyboard, which had a cartridge-shaped plug.
+I was five years old when I got my first computer. Well, it was an Atari 2600 console with an accessory called the Universum Compumate. The console used game cartridges and came with some very uncomfortable joysticks. The Compumate was a keyboard that plugged into the cartridge slot and turned the console into a computer.
 
-After I played all the games and all the levels and cheated all the way in the game with the spaceship and pipes I attached the keyboard.
+After I had played all the games and levels, including cheating my way through the game with the spaceship and pipes, I plugged in the keyboard.
 
-I barely was six years old when my father and I borrowed a book for Atari with full of little programs you could type in yourself.
+I was barely six when my father and I borrowed an Atari programming book full of little programs you could type in yourself.
 
-So we did that. Together. It was rare that he had the time to sit down with me to play and generally do stuff together, so these sessions were prime-time for me.
+So we did that together. He rarely had time to sit down and play or do things with me, so those sessions meant a lot.
 
-Probably this association played a big role when I started to sink in with my curious mind into the world of programming. First, just with the type the program in from a book or magazine, then search the bugs I made during the typing, where I missed a line or typed it twice and so on and so forth.
+Those sessions probably played a big part in my interest in programming. I started by typing programs from books and magazines, then tracking down mistakes such as a line I had missed or typed twice.
 
-It was a great training to find bugs later. But after a while I started to tinker with them and eventually I arrived to a whole new level. I started to write my own things.
+That was good practice for finding bugs. After a while, I started tinkering with the programs and eventually began writing my own.
 
-![A photo of an Atari2600 + Uniuversum Compumate.](/assets/images/Atari_2600_Compumate.jpg "A photo of an Atari2600 + Uniuversum Compumate.")
+![An Atari 2600 with a Universum Compumate.](/assets/images/Atari_2600_Compumate.jpg "An Atari 2600 with a Universum Compumate.")
 Source: [Superandi73](https://commons.wikimedia.org/wiki/File:Atari_2600_Compumate.jpg)
 
-I was eleven when I dipped my toe into the world of Assembly, but it was already on a precious Commodore 64. I still own that machine in the attic of my parent’s house.
+I was eleven when I started learning assembly language on a Commodore 64. I still have that machine in the attic at my parents' house.
 
-Writing small demo programs, counting vertical synchronization on the CRT monitor, using low-level services like IRQs taught me very well.
+I learned a lot from writing small demo programs, counting vertical sync on a CRT monitor, and using IRQs.
 
-Of course when the time came to choose what I want to be when I grow up, it was only one choice, so I went to a specialized high school to graduate and get certification for programming. They bundled it with economics and accountant-work, so I had to take those too. But later in life it became convenient when after college I started to work in the enterprise business.
+When it was time to choose what I wanted to do, programming seemed like the obvious choice. I went to a technical high school and earned a programming certificate. The course also included economics and accounting, which came in handy later when I started working in enterprise software after college.
 
-But why games? Well, the very first thing I started to write by myself was an Invaders-clone in C64 Basic. It was famous in the entire household. Yes, this means I liked it and my father said he likes it too, he just was this way, he always found the way he can encourage me when it counted.
+But why games? The first thing I tried to write on my own was a Space Invaders clone in C64 BASIC. It became a hit with my family. My father said he liked it too. He always knew how to encourage me when it mattered.
 
-Making games always was part of my life, if not computer games, then table-tops or board games. Or even, okay it was just one time, part of a team to write a pen-and-paper role-playing game.
+Games have always been part of my life, whether computer games, tabletop games, or board games. I even once joined a team writing a game played with pen and paper.
 
-A couple of years ago I started to play with the thought again to take it up so I downloaded Unity and later Unreal Engine so I just started.
+A few years ago, I decided to give game development another try. I downloaded Unity, later tried Unreal Engine, and got started.
 
-Now I’m part of the community and trying to give back all the help I got when I started.
+I’m now part of the community, and I try to give back some of the help I received when I was starting out.
 
-I hope you will enjoy what I have to offer, but I expect from you your opinion regardless.
+I hope you enjoy what I share, and I’d be glad to hear what you think.
 
-Keep on gaming, my friend and build your own games too!
+Keep gaming, my friend, and try making a game of your own!
 
 [back](./)

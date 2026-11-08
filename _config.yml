@@ -1,4 +1,16 @@
 title: Lurking Ninja
 description: ...where games are lurking in the shadows
-show_downloads: true
 theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
+  - LICENSE
