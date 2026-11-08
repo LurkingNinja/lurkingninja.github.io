@@ -19,6 +19,6 @@ I plan to share some tutorials here in the future.
 
 I’m working on a few things and will share the projects I’m happy with here.
 
-## Contact ## {: .no-toc}
+## Contact ##
 
 You can find me on [Twitter](https://twitter.com/LurkingNinja) or [Mastodon](https://mastodon.gamedev.place/@lurkingninja).
